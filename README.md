@@ -8,7 +8,7 @@ Clone this repository:
 
 bash
 Copy code
-git clone https://github.com/slkreddy/t5-small-experimentation.git
+git clone git@github.com:slkreddy/genai.git
 cd t5-small-experimentation
 Install the required Python packages:
 
