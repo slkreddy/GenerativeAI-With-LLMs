@@ -1,0 +1,4 @@
+text,sql
+Select the name and age of all employees who are older than 30.,"SELECT name, age FROM employees WHERE age > 30;"
+Get the total sales amount from the sales table.,SELECT SUM(sales_amount) FROM sales;
+Find the department with the maximum number of employees.,SELECT department FROM employees GROUP BY department ORDER BY COUNT(*) DESC LIMIT 1;
